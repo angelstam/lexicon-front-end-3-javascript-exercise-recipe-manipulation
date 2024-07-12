@@ -1,6 +1,6 @@
 ## Exercises on DOM Manipulation
 
-### Getting data from the DOM. 
+### Getting data from the DOM.
 
 #### In this exercise you will try and get some data from the provided recipe website.
 
@@ -21,7 +21,7 @@ Use the appropriate methods and properties available to you to get the correct d
 ```
 
 6. How many ingredients has the paste?
-7. Which is the forth element in the list containing the ingredients for the paste?
+7. Which is the fourth element in the list containing the ingredients for the paste?
 8. Create an an array of objects from the instructions. Each element in the array should be an object that looks like this:
 
 ```js
